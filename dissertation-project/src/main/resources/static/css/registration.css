@@ -1,0 +1,78 @@
+ body {
+            font-family: 'Open Sans', sans-serif;
+            background: #f7f7f7;
+            padding-top: 0;
+            margin-top: 0;
+        }
+
+        /* Custom Navbar Styles */
+        .custom-navbar {
+            background-color: #333; /* A nice shade of dark gray */
+            text-align: center; /* Center the text */
+            padding: 10px 0; /* Padding to make it look taller */
+            margin-bottom: 10px; /* Space after the navbar */
+        }
+
+        .custom-navbar h2 {
+            color: #ffffff; /* White text */
+            margin: 0; /* Remove any default margin */
+            font-size: 24px; /* Set a comfortable font-size */
+            line-height: 1.5; /* For proper vertical alignment */
+        }
+
+        .container {
+            width: 50%; /* Or any other width you prefer */
+            margin: 20px auto; /* Increase top margin if needed */
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        h1 {
+            color: #555;
+            margin-bottom: 30px;
+            text-align: center;
+            font-weight: 600;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        .form-control {
+            border-radius: 20px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            font-size: 14px;
+        }
+        .btn-success {
+            border-radius: 20px;
+            padding: 10px 15px;
+            color: #fff;
+            background-color: #28a745;
+            border-color: #28a745;
+            width: 100%;
+            font-size: 16px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px
+        }
+        .btn-success:hover {
+            background-color: #218838;
+            border-color: #1e7e34;
+        }
+        .alert-info {
+            border-radius: 20px;
+            padding: 10px 15px;
+        }
+        a {
+            color: #28a745;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .register-prompt {
+            .register-prompt {
+                margin-bottom: 20px;
+                text-align: center;
+            }
+        }
